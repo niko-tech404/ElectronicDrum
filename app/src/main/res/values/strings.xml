@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Electronic Drum</string>
+    <string name="kick_button">KICK</string>
+    <string name="snare_button">SNARE</string>
+    <string name="low_tom_button">LOW TOM</string>
+    <string name="hi_tom_button">HI-TOM</string>
+    <string name="hi_hat_button">HI-HAT\n(Charleston)</string>
+    <string name="crash_button">CRASH\n(Piatto)</string>
+    <string name="tutorial">Tocca i pad per suonare a tempo</string>
+    <string name="electronic_drums_title">ELECTRONIC DRUMS</string>
 </resources>
